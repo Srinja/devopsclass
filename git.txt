@@ -1,1 +1,2 @@
 Hello DevOps
+GIT is a SCM tool.
